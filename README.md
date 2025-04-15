@@ -8,8 +8,6 @@
 
 **Author** | Gianni DePaola
 
-**Author** | Nick Biacsi (Slof)
-
 ## Script Functionality
 
 ### Why was it written?
@@ -18,9 +16,6 @@ Create a reusable module to handle certain API calls to MS Graph relating to use
 ### Requirements
 Python Modules: requests, graph-headers  
 Graph API permissions: User.Read.All, Group.Read.All
-
-### Deployment Instructions
-```pip install git+https://unionhomemortgage.visualstudio.com/IT%20Security/_git/MODULE-graph_users_groups```
 
 ### Classes and Functions
 
